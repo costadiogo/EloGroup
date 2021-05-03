@@ -1,4 +1,4 @@
-# 💪 Challenge CertiFoundation
+# 💪 Challenge EloGroup
 
 Challenger of Certi Elogroup
 
