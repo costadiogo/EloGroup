@@ -1,6 +1,6 @@
 # 💪 Challenge EloGroup
 
-Challenger of Certi Elogroup
+Challenger of Elogroup
 
 
  ## 🏁 Getting Started
